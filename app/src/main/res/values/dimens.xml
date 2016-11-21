@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- 定义四种字体大小 -->
+    <dimen name="text_size_micro">10sp</dimen>
+    <dimen name="text_size_micro_small">11sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_smallbig">14sp</dimen>
+    <dimen name="text_size_nomal">16sp</dimen>
+    <dimen name="text_size_nomalbig">17sp</dimen>
+    <dimen name="text_size_large">19sp</dimen>
+    <dimen name="text_size_extro_large">20sp</dimen>
+    <dimen name="base_line_width">1px</dimen>
+    <dimen name="height_top_bar">46dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="image_left_spacing">15dp</dimen>
+    <dimen name="image_text_height">14dp</dimen>
+    <dimen name="image_text_width">24.5dp</dimen>
+    <dimen name="text_small">9sp</dimen>
+    <dimen name="image_xiaoyanjing_width">25dp</dimen>
+    <dimen name="image_xiaoyanjing_height">17.5dp</dimen>
+
+</resources>

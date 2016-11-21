@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recommend_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_recommend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_personal_data.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_my_personal_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page_item02.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\guide_page_item02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binding_phone.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_binding_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_success.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_register_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page_item01.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\guide_page_item01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recommend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_recommend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_page_item03.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\guide_page_item03.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binding_email.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_binding_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    }
+]

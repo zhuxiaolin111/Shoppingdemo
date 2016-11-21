@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shang.shoppingdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.shang.shoppingdemo.activity.RecommendedActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.IndexActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.LoginActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.RegisterActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.RegisterSuccessActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.BindingPhoneActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.BindingEmailActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.shang.shoppingdemo.activity.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

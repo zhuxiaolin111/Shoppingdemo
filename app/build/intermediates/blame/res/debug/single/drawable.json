@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_index_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\edittext_index_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recommended_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\recommended_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_binding_shapa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\tv_binding_shapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_focused.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\button_login_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\check_box_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_index_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\button_index_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
+    }
+]

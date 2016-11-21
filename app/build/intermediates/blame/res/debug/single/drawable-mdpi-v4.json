@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable-mdpi\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\checkbox_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android\\Shoppingdemo1\\app\\src\\main\\res\\drawable-mdpi\\checkbox_normal.xml"
+    }
+]

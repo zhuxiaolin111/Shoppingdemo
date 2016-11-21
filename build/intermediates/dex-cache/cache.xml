@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\httpmime-4.3.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\httpmime-4.3.5_684351b734ebb54163ae8d311b69ea8bea78e563.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\polyvSDK.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="470fa30bfdee9800412604ffd16c67b0c1030500">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\polyvSDK_e9fbad6166fcfc58b90addeb1c344b84132b9b3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\jpush-android-2.0.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\jpush-android-2.0.5_b31e1300a01e0487cdeffe5111e8a9a8c5ab7876.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-Wechat-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6787c600dc12bb6f55a74150c3f06eddf72fb15c">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.2_3cb5a9ccdd254e3e12cd88ad1f099a6e07dd88f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-SinaWeibo-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fa713e699e09f5f110760f12b4a46a9280d9524b">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.2_eae8060340e0984ba6dbdee478c7e1092e576fec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\httpclient-android-4.3.3.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="39ba75b570e5f1535356e8a1bf920b1c6cc83a9a">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.3_ec81fec5ab8bd32c66ccd9e5595cdbcd1a017fdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_b424d2e3cc83e8b9cfb1fba03dcd628332fa53cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\easemobchat_2.2.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6b9388b9b8895ac9551dcc58c70019a83e03204f">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.2_370da70aadc14d60c69ccd787082e398e24e2dcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_4d1791d236062290b28f0836fe6fe4db4a74799d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-TencentWeibo-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="32c5df61af5e1efb9fb0eb20bfd1d0123c462ef8">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.6.2_e560284d74b1c55497234d2d5f22ed6dff408040.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\alipaySdk-20160223.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\alipaySdk-20160223_cde7547a6fdfaeaf1768f75b4d4dc31acca9761a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\Parse-1.9.4_a17bcdb7ac5ccd1b30e104e1f743cc97a5c185bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-Core-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e44531695e0bcfd747ffbdda3f083b7b41a5fe14">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.2_0007fa742ab07b61a35866a1a9c1173eed609dae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.0\f7f0ca4ae3c64f0f35d518613aef95c3210ebd\gson-2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="00f7f0ca4ae3c64f0f35d518613aef95c3210ebd">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\gson-2.0_e9b8bb1417695ed8ad5d051c43277077dbc6cb7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="729a7c1d26c5902662316960cf282647b8d81cab">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\MobTools_abe9ff86c77efa28841e757455c0385aa62f0ded.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\photoview-library-1.2.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="2ed1f1d7eade214216f62a0a1f992fdd04e191a3">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\photoview-library-1.2.2_a879f306eb4a86340ab6c29e625e8c71731a3b4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\jikmediaplayer.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c5bab7edc36b2aa6b72866bd45b671c11b70a11e">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\jikmediaplayer_3162a92193d2cd75badd260bbd5be5c0f037fa96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_bc9e32a8ba1a62fd4ef598b4e6d6dd914912e38a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_a2f8237fb4a855349e5401adc2959b4c75eb68cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\commons-io-2.4_26ab24472648b6828412d776981812296fe21cc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\MobLogCollector.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c804b0e7238e94bb9c89381c90336116509473d7">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\MobLogCollector_cc189d173f83aee21fff10b0225582e65969eb8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\UPPayAssistEx.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="1a386794e7d529faacd1391a71fbd79bc82d6b9a">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\UPPayAssistEx_5740bb34163bab2d7e42bf695297016f32128ea5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\jikmediawidget.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ad4d2fc017984e2d0b52037be2b0a03ce4f1b001">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\jikmediawidget_ad5da10b9cc3fa661483c8bf140f07f8841a2033.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7e1617cd5879aaf0a028cf3292feae6be2860f32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ef29ec238e1bad6c47297595fada8d7a7d794ff0">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\libammsdk_aae18fe61f4ac0120a1442e72604ef71d1e71fe2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_41efb4aa4f94c4718b1a6ffebe08439025afbe4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-QZone-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="53661a165bdf35b59961d314ba218681ff3a4980">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.2_036c3c351d0c3abe1cc6741a8249713dea9237c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_a6b40c2518e7996744682f80e4899301859134fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-QQ-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="26c991c29049a91e34eb78d260d5384437411f13">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.2_81fcdf79f28116c1ad53a79877d8140a6b9b2cea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-Wechat-Moments-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="66cf77925130b635290f17b1497c96d6d6e89510">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.2_571bbabeeac6630ae723f7b59b9b98c2f717e30f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\UPPayPluginExPro.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3f4c8b7ba28557ec7fcf8a9329ecf70a70c6223b">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\UPPayPluginExPro_edcbb6f8f5b23d6221172a986210395ff80e1d36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\volley.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="119ef9a57b5365288a68dae9ae94c5535acabb04">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\volley_51089bc0cdda694ad970311f3b02ffb666afe563.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\commons-codec-1.5.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="cf993e250ff71804754ec2734a16f23c0be99f70">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\commons-codec-1.5_742b6157a827437d2b0a32f59042b7539331a7f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\libs\ShareSDK-Wechat-Core-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7c6b5fbbbaefb2ac4607c9c2944d5c0d408b4f7e">
+        <dex dex="C:\Users\Administrator\Desktop\android\Shoppingdemo1\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.2_60b37dc998f5e6ab16090b23159a83182ab458af.jar" />
+    </item>
+
+</items>
